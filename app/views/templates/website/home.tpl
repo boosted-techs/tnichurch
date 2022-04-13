@@ -9,22 +9,22 @@
             <div>
                 <img src="/assets/images/banner.jpg" alt="hero-one-slider">
                 <div class="hero-data text-center">
-                    <h1>Worship That<br> is Pleasing to God</h1>
-                    <p>God has given us power and authority.</p>
+                    <h1>Worship That<br> Elevates & Pleasing to God</h1>
+                    <p>We Specially invite to our Sunday Services</p>
                 </div>
             </div>
             <div>
                 <img src="/assets/images/hero-img-6.webp" alt="hero-one-slider">
                 <div class="hero-data text-center">
-                    <h1>We Love God<br> We Believe in God</h1>
-                    <p>There is no other way except jesus.</p>
+                    <h1>We Love God<br> And give cheerfully</h1>
+                    <p>For the cause of expanding the gospel in communities</p>
                 </div>
             </div>
             <div>
                 <img src="/assets/images/hero-img-1.webp" alt="hero-one-slider">
                 <div class="hero-data text-center">
-                    <h1>Love God<br> Love Doing Good</h1>
-                    <p>We are a church that believes in Jesus christ.</p>
+                    <h1>God's Love<br> Shed Abroad in Us</h1>
+                    <p>We are a Bible believing church and Jesus' Lordship</p>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
 
         <div class="container">
 
-            <h2 class="text-center mx-auto">We Gather for Inspiration, Fellowship, and Guidance in the of Christian Discipleship.</h2>
+            <h2 class="text-center mx-auto">We Gather for Bible Studies, Cell Fellowship, and Guidance in the Daily walk of Christianity.</h2>
 
             <div class="row">
 
@@ -58,7 +58,7 @@
 
                         <h3><a href="JavaScript:void(0)">Praise & Worship</a></h3>
 
-                        <p class="mx-auto">Our church is open and friendly with many social activities. To keep our church running smoothly.</p>
+                        <p class="mx-auto">The hour has come and now is for the true worshipers to worship God in spirit and in truth.</p>
 
                     </div>
 
@@ -74,9 +74,9 @@
 
 						</span>
 
-                        <h3><a href="JavaScript:void(0)">Connect Members</a></h3>
+                        <h3><a href="JavaScript:void(0)">Translating Partners</a></h3>
 
-                        <p class="mx-auto">Our church is open and friendly with many social activities. To keep our church running smoothly.</p>
+                        <p class="mx-auto">Open and friendly with many Rhapsody Outreach activities. To keep our church expanding in these last days.</p>
 
                     </div>
 
@@ -92,9 +92,9 @@
 
 						</span>
 
-                        <h3><a href="JavaScript:void(0)">Parent’s Love</a></h3>
+                        <h3><a href="JavaScript:void(0)">Cell Fellowships</a></h3>
 
-                        <p class="mx-auto">Our church is open and friendly with many social activities. To keep our church running smoothly.</p>
+                        <p class="mx-auto">Our church is open and committed to reach and ground members with God's word and helping many grow spiritually.</p>
 
                     </div>
 
@@ -122,9 +122,9 @@
 
                     <div class="about-data">
 
-                        <h2>A Church that Loves God and People</h2>
+                        <h2>More About TNI Online Church Rwanda</h2>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit totam rem ape eaque ipsa quae ab illo inven tore Loaper eaque ipsa quae ab illo invento eaqu e ipsa quae ab ille a que ipsa quae ab illo inventore.</p>
+                        <p>This is the statement of Bible doctrine as believed and taught by the Believers’ LoveWorld Inc. aka Christ Embassy. This statement of faith has its source in the Bible and is in total agreement with the foundational principles of the doctrines of Christ.</p>
 
                         <a href="/about-us" class="theme-btn">More About us</a>
 
@@ -162,9 +162,9 @@
 
                             <div class="slider-data">
 
-                                <h2 class="text-white">O Lord, you have searched me out and known me; you know my sitting down and my rising up.</h2>
+                                <h2 class="text-white">The Lord gave the word;Great was the company of those who proclaimed it </h2>
 
-                                <h3 class="text-white">Psalm 139: 1-2</h3>
+                                <h3 class="text-white">Psalm 68: 11</h3>
 
                             </div>
 
@@ -190,9 +190,9 @@
 
                             <div class="slider-data">
 
-                                <h2 class="text-white">God is with you, wherever you may be and whatever you may choose to do.</h2>
+                                <h2 class="text-white">We believe that the Bible contains the inspired and infallible Word of God.</h2>
 
-                                <h3 class="text-white">Psalm 127: 1-2</h3>
+                                <h3 class="text-white">2 Timothy 3:16</h3>
 
                             </div>
 
@@ -204,9 +204,9 @@
 
                             <div class="slider-data">
 
-                                <h2 class="text-white">Any concern too small to be turned into a prayer is too small to be made into a burden.</h2>
+                                <h2 class="text-white">“Christ is not only a person, Christ is a place. When you come into Christ, you don't come into a person; you come into a place.”</h2>
 
-                                <h3 class="text-white">Corrie Ten Boom</h3>
+                                <h3 class="text-white">Rev. Chris Oyakhilome</h3>
 
                             </div>
 
@@ -236,7 +236,7 @@
 
                 <img src="/assets/images/heading-img.webp" alt="Heading Image">
 
-                <p>Scandoulous Things Jesus did in his Ministry</p>
+                <p>These are some of the recently viewed Sermons</p>
 
                 <h2>Recent Sermons</h2>
 
@@ -520,7 +520,7 @@
 
                 <img src="/assets/images/heading-img.webp" alt="Heading Image 2">
 
-                <p>Scandoulous Things Jesus did in his Ministry</p>
+                <p>These are some of the recently viewed Sermons</p>
 
                 <h2>Watch our Live Stream</h2>
 

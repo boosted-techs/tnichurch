@@ -42,7 +42,7 @@
 
                         <h2>Welcome to TNI CHURCH ONLINE</h2>
 
-                        <p class="w-85">Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsa quae ab illo invene ipsa quae ab ille ab illo inventor sed  totam rem ape eaque ipsa quae ab illo invene ipsa ae ab ille ab illo inventore.</p>
+                        <p class="w-85">Hebrews 10:25 Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.</p>
 
                         <div class="sidetwo">
 
@@ -56,9 +56,9 @@
 
                                 <ul>
 
-                                    <li><p>We are now meeting online!</p></li>
+                                    <li><p>We are now also meeting online!</p></li>
 
-                                    <li><p class="theme-clr">Every Sunday @ 11:30am via Zoom.</p></li>
+                                    <li><p class="theme-clr">Every Sunday @ 10:00am via tnichurch.online</p></li>
 
                                 </ul>
 
@@ -74,7 +74,7 @@
 
                                 <ul>
 
-                                    <li><p>Haberdashers' Aske's Hatcham College Jerningham Road London,</p></li>
+                                    <li><p>Visit Us & Join Pastor Blessing Muziga' On tnichurch.online,</p></li>
 
                                 </ul>
 
@@ -124,7 +124,7 @@
 
                     <div class="content services-online">
 
-                        <h2>Watch our church services online</h2>
+                        <h2>Visit Us Onsite and also can Watch our church services online</h2>
 
                         <div class="sidetwo">
 
@@ -140,7 +140,7 @@
 
                                     <li><h3>Morning Service</h3></li>
 
-                                    <li><p>il odio amet nibh vulpuate cursus laccumsan ipsuy vel ibh vulpuatet nibh.</p></li>
+                                    <li><p>We have Sunday Services in English and Kinyarwanda from 8am-10am & 10am-12pm.</p></li>
 
                                 </ul>
 
@@ -158,7 +158,7 @@
 
                                     <li><h3>MID WEEK SERVICE</h3></li>
 
-                                    <li><p>il odio amet nibh vulpuate cursus laccumsan ipsuy vel ibh vulpuatet nibh.</p></li>
+                                    <li><p>We have the Mid-Week Services On Wednesdays from 6pm-8pm.</p></li>
 
 
 
@@ -176,9 +176,9 @@
 
                                 <ul>
 
-                                    <li><h3>END OF MONTH SERVICE</h3></li>
+                                    <li><h3>COMMUNION SERVICE With Pastor Chris</h3></li>
 
-                                    <li><p>il odio amet nibh vulpuate cursus laccumsan ipsuy vel ibh vulpuatet nibh.</p></li>
+                                    <li><p>Every First Sunday of the month we pray and first then join for service at 7pm Globally.</p></li>
 
 
 
@@ -216,7 +216,7 @@
 
                     <img src="/assets/images/pray-logo.webp" alt="Pray Img">
 
-                    <h2 class="m-auto text-white">“Among those who went to the Temple to worship were people who came saying “Sir, we would like to see Jesus”</h2>
+                    <h2 class="m-auto text-white">“Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks. 24 God is spirit, and his worshipers must worship in the Spirit and in truth.”John 4:23-24</h2>
 
                     <p class="text-white font-bold">Waqar thomas 12:20</p>
 
@@ -248,7 +248,7 @@
 
                 <img src="/assets/images/heading-img.webp" alt="Heading Image">
 
-                <p>Scandoulous Things Jesus did in his Ministry</p>
+                <p>Some of the Key Leaders & Partners</p>
 
                 <h2>Meet our Pastor</h2>
 
@@ -376,13 +376,13 @@
 
                         <div>
 
-                            <h2 class="font-bold">Decisions Based on Church Reviews1</h2>
+                            <h2 class="font-bold">Christ Embassy. giving your life a meaning...!</h2>
 
-                            <p>“  I moved to Quincy last year and was searching for a church home. The people here are always smiling and friendly. Pastor Taylor is kind and always positive. I've been going to this church for almost a year now and I look forward to going each Sunday.  ”</p>
+                            <p>Through an anointed ministry spanning over 25 years, Pastor, teacher, healing minister, television host and best-selling author Rev. Chris Oyakhilome has helped millions experience a victorious and purposeful life in God's Word.</p>
 
                             <ul>
 
-                                <li><h3 class="font-bold">Lataya Carter</h3></li>
+                                <li><h3 class="font-bold">Pastor Blessing</h3></li>
 
                                 <li class="d-flex font-bold">recommends<span class="theme-clr">TNI CHURCH ONLINE</span></li>
 
@@ -392,13 +392,13 @@
 
                         <div>
 
-                            <h2 class="font-bold"> Based on Church Decisions Reviews2</h2>
+                            <h2 class="font-bold"> About this Christ Embassy TNI Online Fellowship</h2>
 
-                            <p>“  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis nec magna in imperdiet. Morbi condimentum, justo nec posuere dictum, velit nisl rhoncus urna, pretium ultricies neque ante sit amet turpis. Cras malesuada.   ”</p>
+                            <p>  Through an anointed ministry spanning over 25 years, Pastor, teacher, healing minister, television host and best-selling author Rev. Chris Oyakhilome has helped millions experience a victorious and purposeful life in God's Wor</p>
 
                             <ul>
 
-                                <li><h3 class="font-bold">William</h3></li>
+                                <li><h3 class="font-bold">Pastor Blessing</h3></li>
 
                                 <li class="d-flex font-bold">recommends<span class="theme-clr">TNI CHURCH ONLINE</span></li>
 
@@ -408,9 +408,9 @@
 
                         <div>
 
-                            <h2 class="font-bold">Church Decisions Based on  Reviews3</h2>
+                            <h2 class="font-bold">About This Church</h2>
 
-                            <p>“  I moved to Quincy last year and was searching for a church home. The people here are always smiling and friendly. Pastor Taylor is kind and always positive. I've been going to this church for almost a year now and I look forward to going each Sunday.  ”</p>
+                            <p>He is the author of several bestsellers such as “None of These Diseases” and “Rhapsody of Realities” which he co-authors with his wife, Pastor Anita. His teachings are also available in all audio and video formats.</p>
 
                             <ul>
 
@@ -424,9 +424,10 @@
 
                         <div>
 
-                            <h2 class="font-bold">On Church Decisions Based  Reviews4</h2>
+                            <h2 class="font-bold">On Church Decision Based  Reviews4</h2>
 
-                            <p>“  c dictum, ex et porttitor sagittis, lorem turpis pharetra augue, vel maximus enim dui id dui. Praesent fermentum dapibus elit, gravida elementum sapien accumsan sed. Sed pretium quis eros fermentum placerat. Donec imperdiet sceler  ”</p>
+                            <p>Chris also pastors one of the largest congregations in Africa. He holds massive teaching and healing crusades with crowds of over 3.5 million in a single night's event.
+                            </p>
 
                             <ul>
 

@@ -11,3 +11,8 @@ $route['sermons']                           =               "Home/sermons";
 $route['shop']                              =               "Home/shop";
 
 
+$route['wp-admin']                          =               "Admin/login";
+$route['wp-admin/dashboard']                =               "Admin/index";
+$route['wp-admin/forgot-pwd']               =               "Admin/forgot_password";
+$route['wp-admin/logout']                   =               "Admin/logout";
+$route['wp-admin/sign-in']                  =               "Admin/sign_in";

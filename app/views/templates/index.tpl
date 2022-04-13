@@ -68,7 +68,7 @@
                 <div class="col-lg-12">
                     <nav>
                         <div class="logo">
-                            <a href="./">
+                            <a href="/">
                                 <img src="/assets/images/tni.webp" alt="Logo">
                             </a>
                         </div>
@@ -154,8 +154,8 @@
 <section class="gap events-carousal">
     <div class="container">
         <div class="heading">
-            <p>We enjoy being a multi-denominational church</p>
-            <h2>Don’t Miss Your Chance to Get Closer to God</h2>
+            <p>We enjoy being a great part of your Daily Christian Walk</p>
+            <h2>Don’t Miss The Rapture Prepare to Meet God in these last days</h2>
         </div>
     </div>
     <div class="">
@@ -406,9 +406,9 @@
                 <div class="parallax pattren" style="background-image: url(/assets/images/pattren.jpg);"></div>
                 <div class="donation-data">
 
-                    <h2 data-aos="fade-up" data-aos-duration="900">Stand Up the Church Climate Crisis</h2>
+                    <h2 data-aos="fade-up" data-aos-duration="900">Partner With Us Rhapsody Free Distributions</h2>
 
-                    <p data-aos="fade-up" data-aos-duration="1100">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed totam rem ape eaque ipsa quae ab illo inven tore Loaperiam, eaque ipsa quae ab illo invento eaqu e ipsa quae ab ille ab illo inventore.</p>
+                    <p data-aos="fade-up" data-aos-duration="1100">We have Daily, Weekly and Monthly ReachOut Programs intended to make sure everyone receives Rhapsody Of Realities Daily Devotional and this has transformed so many with so many miracles and testimonies.</p>
 
                     <div class="donation-form">
 
@@ -418,19 +418,19 @@
 
                         <ul class="list-unstyled" data-aos="fade-up" data-aos-duration="1400">
 
-                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">5</span></a>
+                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">100</span></a>
 
                             </li>
 
-                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">10</span></a>
+                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">500</span></a>
 
                             </li>
 
-                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">20</span></a>
+                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">1000</span></a>
 
                             </li>
 
-                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">30</span></a>
+                            <li><a class="donating" href="JavaScript:void(0)">$<span class="donation_amount">1000+</span></a>
 
                             </li>
 
@@ -802,7 +802,7 @@
 
             <div class="footer-rights">
 
-                <p class="text-white">© Copyright <span>2021</span>. All Rights Reserved.</p>
+                <p class="text-white">©TNI Online Church - Rwanda Copyright <span>2022</span>. All Rights Reserved.</p>
 
             </div>
 

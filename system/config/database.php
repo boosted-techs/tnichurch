@@ -19,7 +19,7 @@ $database_config['password'] = 'root';
 /*
  * Mysql database to work with
  */
-$database_config['database'] = 'kcca_job_match';
+$database_config['database'] = 'church_db';
 
 /*
  * Redis
