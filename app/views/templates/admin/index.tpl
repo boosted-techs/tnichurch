@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="/assets/admin/vendor/chartist/css/chartist.min.css">
     <link href="/assets/admin/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
     <link href="/assets/admin/vendor/owl-carousel/owl.carousel.css" rel="stylesheet">
+    {block name="styles"}{/block}
     <link href="/assets/admin/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 </head>
@@ -106,14 +107,10 @@
     <div class="deznav">
         <div class="deznav-scroll">
             <ul class="metismenu" id="menu">
-                <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
+                <li><a class="ai-icon" href="/wp-admin/dashboard" aria-expanded="false">
                         <i class="flaticon-381-networking"></i>
                         <span class="nav-text">Dashboard</span>
                     </a>
-                    <ul aria-expanded="false">
-                        <li><a href="/wp-admin/dashboard">Dashboard</a></li>
-
-                    </ul>
                 </li>
                 <li><a class="ai-icon" href="/wp-admin/sermons" aria-expanded="false">
                         <i class="flaticon-381-video-clip"></i>
@@ -191,5 +188,6 @@
 <script src="/assets/admin/js/custom.min.js"></script>
 <script src="/assets/admin/js/deznav-init.js"></script>
 <script src="/assets/admin/vendor/owl-carousel/owl.carousel.js"></script>
+{block name="scripts"}{/block}
 </body>
 </html>

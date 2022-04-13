@@ -6,11 +6,11 @@ class Admin extends Controller
     {
         parent::__construct();
         $this->model("Accounts_model");
+        $this->model("Sermons_model");
     }
 
     function index(){
         $this->model->Accounts_model->is_logged_in();
-        print_r($_SESSION);
         $this->smarty->display("admin/dashboard.tpl");
     }
 
@@ -30,6 +30,12 @@ class Admin extends Controller
         }
     }
 
+    function sermons() {
+        $this->model->Accounts_model->is_logged_in();
+        $this->smarty->assign("sermons", $this->model->Sermons_model->get_sermons());
+        $this->smarty->display("admin/sermons.tpl");
+    }
+
     function forgot_password() {
 
     }
@@ -37,6 +43,29 @@ class Admin extends Controller
     function logout() {
         $this->session->destroy();
         $this->redirect("/wp-admin");
+    }
+
+    /**
+     * @throws SmartyException
+     */
+    function blog() {
+        $this->model->Accounts_model->is_logged_in();
+        $this->smarty->assign("sermons", $this->model->Sermons_model->get_sermons());
+        $this->smarty->display("admin/blog.tpl");
+    }
+
+    function events() {
+        $this->model->Accounts_model->is_logged_in();
+        $this->smarty->assign("sermons", $this->model->Sermons_model->get_sermons());
+        $this->smarty->display("admin/events.tpl");
+    }
+
+    function add_event() {
+
+    }
+
+    function add_blog() {
+
     }
 
 }
