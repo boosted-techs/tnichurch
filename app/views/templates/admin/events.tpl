@@ -11,14 +11,16 @@
                 </h4>
             </div>
             <div class="card-body">
+                {if isset($smarty.get.m)}
+                    <div class="alert alert-info">{$smarty.get.m}</div>
+                {/if}
                 <form action="/wp-admin/add-event" method="post" enctype="multipart/form-data">
                     <label>TITLE</label>
                     <div class="input-group input-info">
                         <input type="text" required class="form-control" name="title" placeholder="Title"/>
                     </div>
                     <label>Event Body</label>
-{*                    <textarea class="form-control summernote" required name="description"></textarea>*}
-                    <div class="summernote bg-dark"></div>
+                    <textarea class="form-control summernote" required name="description"></textarea>
                     <labe>Dates</labe>
                     <div class="form-row">
                         <div class="form-group col-md-6 input-danger-o">
@@ -61,8 +63,25 @@
                     Events
                 </h4>
             </div>
-            <div class="card-body">
-
+            <div class="card-body row">
+                {foreach $events as $event}
+                    <div class="col-md-12 mb-4 shadow p-0">
+                        <img src="/media/{$event.image}" class="w-100"/>
+                        <h4 class="pl-3 pr-3 pt-3 pb-3">{$event.title}</h4>
+                        <div class="pl-3 pr-3">
+                            <span class="btn btn-info"><span class="fa fa-calendar"></span> {$event.start_date} - {$event.end_date}</span>
+                            <span class="btn btn-warning"><span class="fa fa-clock-o"></span> {$event.start_time} - {$event.end_time}</span>
+                        </div>
+                        <hr/>
+                        <div class="pr-3 pb-3 pl-3">
+                            <small>
+                                <a href="/wp-admin/del-event/{$event.id}?i=del" class="text-danger"><i class="fa fa-times"></i></a>
+                                <a href="/wp-admin/del-event/{$event.id}?i=hide" class="text-danger"><i class="fa fa-eye" title="Toggle show hide"></i></a>
+                                | {if $event.status == 0} Unpublished{else}Published{/if}
+                            </small>
+                        </div>
+                    </div>
+                {/foreach}
             </div>
         </div>
     </div>

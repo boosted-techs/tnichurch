@@ -916,6 +916,7 @@
 
 <!-- Custom Js -->
 <script src="/assets/js/custom.js"></script>
+{block name="scripts"}{/block}
 </body>
 
 </html>

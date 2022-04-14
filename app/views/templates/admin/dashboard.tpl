@@ -5,6 +5,7 @@
             <div class="row">
                 <div class="col-md-12 text-center p-3">
                     Welcome to TNI ADMIN
+                    {$stats|print_r}
                 </div>
                 <div class="col-sm-3">
                     <div class="card avtivity-card">
@@ -24,7 +25,7 @@
 											</span>
                                 <div class="media-body">
                                     <p class="fs-14 mb-2">Events</p>
-                                    <span class="title text-black font-w600">0</span>
+                                    <span class="title text-black font-w600">{$stats.events}</span>
                                 </div>
                             </div>
                             <div class="progress" style="height:5px;">
@@ -45,7 +46,7 @@
 											</span>
                                 <div class="media-body">
                                     <p class="fs-14 mb-2">Sermons</p>
-                                    <span class="title text-black font-w600">0</span>
+                                    <span class="title text-black font-w600">{$stats.sermons}</span>
                                 </div>
                             </div>
                             <div class="progress" style="height:5px;">
@@ -62,11 +63,11 @@
                         <div class="card-body">
                             <div class="media align-items-center">
 											<span class="activity-icon bgl-warning mr-md-4 mr-3">
-												<h1 class="fa fa-file-video-o"></h1>
+												<h1 class="fa fa-book"></h1>
 											</span>
                                 <div class="media-body">
                                     <p class="fs-14 mb-2">Articles</p>
-                                    <span class="title text-black font-w600">0</span>
+                                    <span class="title text-black font-w600">{$stats.blog}</span>
                                 </div>
                             </div>
                             <div class="progress" style="height:5px;">
@@ -104,7 +105,7 @@
                         <div class="card-body">
                             <div class="media align-items-center">
 											<span class="activity-icon bgl-primary mr-md-4 mr-3">
-												<h1 class="fa fa-file-video-o"></h1>
+												<h1 class="fa fa-eye"></h1>
 											</span>
                                 <div class="media-body">
                                     <p class="fs-14 mb-2">Live viewers</p>

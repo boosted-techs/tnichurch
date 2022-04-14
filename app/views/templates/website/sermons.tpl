@@ -2,26 +2,8 @@
 {block name="body"}
     <!-- Banner Start -->
 
-    <section class="banner position-relative">
-
-        <div class="parallax" style="background-image: url(/assets/images/banner.jpg);"></div>
-
-        <div class="banner-data text-center">
-
-            <h2 class="text-white font-bold">Sermons</h2>
-
-            <ul class="flex-all">
-
-                <li><a href="JavaScript:void(0)" class="text-white">Home</a></li>
-
-                <li><a href="JavaScript:void(0)" class="text-white">Sermons</a></li>
-
-            </ul>
-
-            <img src="/assets/images/tni.webp" alt="Banner Logo" style="object-fit: contain">
-
-        </div>
-
+    <section class="">
+        <div id="player"></div>
     </section>
 
     <!-- Banner End -->
@@ -372,4 +354,14 @@
 
 
 
+{/block}
+{block name="scripts"}
+    <script src="https://rhapsodyofrealities.b-cdn.net/rin/assets/playerjs.js"></script>
+    <script>
+        let title = ""
+        let video = ""
+        {literal}
+        let player = new Playerjs({id:"player", title:title, player:2, file:video});
+        {/literal}
+    </script>
 {/block}

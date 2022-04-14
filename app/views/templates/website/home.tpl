@@ -29,6 +29,9 @@
             </div>
         </div>
     </section>
+    <section>
+        <div id="player"></div>
+    </section>
 
     <!-- banner part end -->
 
@@ -634,4 +637,14 @@
 
     <!-- Live Stream End -->
 
+{/block}
+{block name="scripts"}
+    <script src="https://rhapsodyofrealities.b-cdn.net/rin/assets/playerjs.js"></script>
+    <script>
+        let title = ""
+        let video = ""
+        {literal}
+        let player = new Playerjs({id:"player", title:title, player:2, file:video});
+        {/literal}
+    </script>
 {/block}

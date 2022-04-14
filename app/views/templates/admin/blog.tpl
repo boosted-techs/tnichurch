@@ -11,6 +11,9 @@
                 </h4>
             </div>
             <div class="card-body">
+                {if isset($smarty.get.m)}
+                    <div class="alert alert-info">{$smarty.get.m}</div>
+                {/if}
                 <form action="/wp-admin/add-blog" method="post" enctype="multipart/form-data">
                     <label>TITLE</label>
                     <div class="input-group input-info">
@@ -41,7 +44,20 @@
                 </h4>
             </div>
             <div class="card-body">
-
+                {foreach $events as $event}
+                    <div class="col-md-12 mb-4 shadow p-0">
+                        <img src="/media/{$event.image}" class="w-100"/>
+                        <h4 class="pl-3 pr-3 pt-3 pb-3">{$event.title}</h4>
+                        <hr/>
+                        <div class="pr-3 pb-3 pl-3">
+                            <small>
+                                <a href="/wp-admin/del-event/{$event.id}?i=del&b=true" class="text-danger"><i class="fa fa-times"></i></a>
+                                <a href="/wp-admin/del-event/{$event.id}?i=hide&b=true" class="text-danger"><i class="fa fa-eye" title="Toggle show hide"></i></a>
+                                | {if $event.status == 0} Unpublished{else}Published{/if}
+                            </small>
+                        </div>
+                    </div>
+                {/foreach}
             </div>
         </div>
     </div>
