@@ -52,7 +52,7 @@
 
 						<span>
 
-							<img src="/assets/images/star-colored.svg" alt="Wedding">
+							<img src="/assets/images/check-mark.svg" alt="Wedding">
 
 						</span>
 
