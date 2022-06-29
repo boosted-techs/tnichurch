@@ -7,10 +7,10 @@
     <section class="hero-one">
         <div class="hero-one-slider">
             <div>
-                <img src="/assets/images/banner.webp" alt="hero-one-slider">
+                <img src="/assets/images/banner-2.jpg" alt="hero-one-slider">
                 <div class="hero-data text-center">
                     <h1>Children</h1>
-                    <p>provide a platform to discuss children grooming methods</p>
+                    <p>Providing a platform to discuss children grooming methods</p>
                 </div>
             </div>
             <div>
