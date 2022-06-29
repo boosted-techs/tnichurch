@@ -301,7 +301,7 @@
 
                 <a href="index.html">
 
-                    <img class="footer-logo" src="/assets/images/tni.webp" alt="footer logo">
+                    <img class="footer-logo" src="/assets/images/tni.png" width="180" alt="footer logo">
 
                 </a>
 
