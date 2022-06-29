@@ -27,12 +27,33 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/color.css">
     <!-- Responsive -->
     <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css">
+    <!-- custom css -->
+    <style>
+        .top-bar {
+            border-bottom: 5px solid #016d41 !important;
+            background-color: #00854c !important;
+        }
+        .inner {
+            background-color: #00854c !important;
+        }
+        .hero-one-slider button.slick-arrow {
+            border-color: #00854c;
+            background-color: #00854c;
+        }
+        blockquote, .theme-bg-clr, .theme-btn, .offer span, .desktop-nav .donation a.pr-cart:before, .about-gallery figure:before, .gallery figure:before, .prayers-slider ul.slick-dots li.slick-active, .sermon-img ul li a:focus, .event:hover .event-data, .donation-form .custom-donation-amount span, .blog-meta ul li.date, .subscribe, .subscribe form button, .about-two .extras span, .sermon-grid ul li a:focus, .pastor .profile:hover .meta, .causes-of-church .don-box a.theme-btn:hover, .sidetwo .icon, .livestream .data .title .countdown #countdown #tiles > span, .footer-three .social-area ul li span, .footer-gallery figure:before, .product .product-actions a, .social-medias ul li a:hover, #nav-icon4 span, .s-medias ul li a, .cause-detail .cause-meta .theme-btn:hover, ul.sermon-icons li a:hover, .sermon-grid>ul>li a:hover, .tags ul li a:hover, .desktop-nav nav .nav-bar ul > li ul.sub-menu li a:before, .desktop-nav nav .nav-bar ul > li.menu-item-has-children ul.sub-menu:before, a.next-slide.nav-active:before, a.next-slide:before, .playlist-track-ctn.active-track .playlist-btn-play, #btn-faws-play-pause, .audio-player.style2 #myProgress #myBar, .cart-popup .cart-btns a:hover, .cart-popup:before, button.scrollTopStick, .mobile-nav .donation a.cart:before, .header-two .logo a, .sermon-img ul li a:hover, .hero-one-slider button.slick-arrow, .mobile-nav > ul > li.menu-item-has-children.active > ul.sub-menu li a:before, .pray:before, .pd-stars p, .pd-content ul.pd-tabs li a:before, .payment-method .form-check-input:checked, .personal-info .dp-agree input:checked, .prog-bar .progress .progress-bar {
+            background-color: #00854c;
+            border-color: #00854c;
+        }
+        .theme-clr, .desktop-nav nav .nav-bar ul li a:hover, .offer h3 a:hover, .sermon-data ul li, .sermon-data h3 a:hover, .donation-form ul li a:focus, .blog-meta a:hover, .footer-one .contact span, .copy-right span, .footer-one ul.quick-links li a:hover, .footer-one ul.footer-events li a:hover, .subscribe form button:hover, .about-two .extras a:hover, .sermon-two ul li, .recent-sermon-two .sermon-two a:hover, .causes-of-church .prices p span, .causes-of-church .don-box a.theme-btn, .subscribe-two .data p span, .sidetwo .contacts p.theme-clr, .footer-three .social-area ul li a:hover, .footer-main-content p span, .product .product-description a:hover, .content ul li span, .ministry a:hover, .cause-detail .cause-meta span, ul.meta, .pagination ul li a:hover, .blog-detail ul.blog-author li a:hover, .widget-popular-posts a:hover, .widget-popular-posts .blog-meta li:first-child, .widget-trending-videos > ul > li > a:hover, .widget-trending-videos > ul > li > ul.blog-meta li, .widget-trending-videos > ul > li > ul.blog-meta li:first-child:before, .active-track > .playlist-info-track, .active-track >.playlist-duration, .active-track > .playlist-btn-play, .widget-categories ul li a:hover, .theme-dark-clr, .pd-edition ul li a:focus, .pd-cat-tags ul li ul.pd-cat li a:hover, .pd-cat-tags ul li ul.pd-tag li a:hover, .total-donation-amount .total_amount input, .pastor-meta p.designation {
+            color: #449170;
+        }
+    </style>
 </head>
 <body>
 <!-- Loader Start -->
 <div class="preloader" id="preloader">
     <svg viewBox="0 0 1920 1080" preserveAspectRatio="none" version="1.1">
-        <path d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,0 Z"></path>
+        <path d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,0 Z" fill="#00854c"></path>
     </svg>
     <div class="inner">
         <canvas class="progress-bar" id="progress-bar" width="200" height="200"></canvas>
