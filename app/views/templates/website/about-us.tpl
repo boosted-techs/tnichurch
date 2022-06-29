@@ -112,7 +112,7 @@
 
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-
+                    <img src="/assets/images/about-three-img.webp" class="w-100" alt="senga kulabako"/>
                     <div class="content">
                         <p>
                             A survey has shown that these slums are very prone to underdevelopment, poor waste disposal, and more small-scale hands-on labor like carpentry, machinery, chapatti businesses, charcoal selling as opposed to high end offices and cooperation’s, this shows that there is also very limited investment in these areas. It is already clear that crime is due to poor grooming, limited empowerment of young people as regards communal development as well as poor facilitation of small-scale businesses leading to stagnancy in development.

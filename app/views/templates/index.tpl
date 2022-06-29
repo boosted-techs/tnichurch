@@ -69,7 +69,7 @@
                     <nav>
                         <div class="logo">
                             <a href="/">
-                                <img src="/assets/images/tni.png" width="186" alt="Logo">
+                                <img src="/assets/images/tni.png" style="width:186px" alt="Logo">
                             </a>
                         </div>
                         <div class="nav-bar">
@@ -134,13 +134,13 @@
     <div class="mobile-nav" id="mobile-nav">
         <div class="res-log">
             <a href="./">
-                <img src="/assets/images/tni.webp" alt="Responsive Logo">
+                <img src="/assets/images/tni.png" style="width:186px" alt="Responsive Logo">
             </a>
         </div>
         <ul>
             <li><a href="/">Home</a></li>
-            <li ><a href="/sermons">Senga K's Dinner</a></li>
-            <li><a href="/events">Senga K's Residence</a></li>
+            <li ><a href="/dinner">Senga K's Dinner</a></li>
+            <li><a href="/residence">Senga K's Residence</a></li>
 
             <li><a href="/about-us">About us</a></li>
 
