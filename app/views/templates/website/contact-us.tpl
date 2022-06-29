@@ -5,7 +5,7 @@
 
     <section class="banner position-relative">
 
-        <div class="parallax" style="background-image: url(/assets/images/banner.jpg);"></div>
+        <div class="parallax" style="background-image: url(/assets/images/about-two-img3.webp);"></div>
 
         <div class="banner-data text-center">
 
@@ -49,40 +49,21 @@
 
                         <div class="c-detail d-flex" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
 
-                            <span class="font-bold">RWANDA</span>
+                            <span class="font-bold">UGANDA</span>
 
                             <ul>
 
-                                <li>+252 RWANDA</li>
+                                <li>+256 UGANDA</li>
 
                                 <li><span>Telephone:</span> </li>
 
                                 <li><span>Fax:</span> </li>
 
-                                <li><span>Email:</span> pastor@tnichurch.online</li>
+                                <li><span>Email:</span> </li>
 
                             </ul>
 
                         </div>
-
-                        <div class="c-detail d-flex" data-aos="fade-right" data-aos-delay="800" data-aos-duration="1500">
-
-                            <span class="font-bold">Nigeria</span>
-
-                            <ul>
-
-                                <li></li>
-
-                                <li><span>Telephone:</span> </li>
-
-                                <li><span>Fax:</span> </li>
-
-                                <li><span>Email:</span> nigeria@tnichurch.online</li>
-
-                            </ul>
-
-                        </div>
-
                     </div>
 
                 </div>

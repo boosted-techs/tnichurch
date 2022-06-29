@@ -42,12 +42,19 @@ class Home extends Controller
        $this->smarty->display("website/shop.tpl");
    }
 
-
-
     function contact_us() {
         $message = "Hello <b>" . $this->inputs->post['names'] .", your message has been received. We shall get in touch as soon as possible.</b>";
 
         $this->model->Mail_model->send_mail($this->inputs->post['email'], $message, "Contact us");
     }
+
+    function residence () {
+        $this->smarty->display("website/residence.tpl");
+    }
+
+    function dinner() {
+        $this->smarty->display("website/dinner.tpl");
+    }
+
 
 }
